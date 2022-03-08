@@ -1,13 +1,13 @@
 ## PIPS: Programming Interview Problems and Solutions
-Savings my study progress for programming interviews. 
+Saving my study progress for programming interviews. 
 
 ### LeetCode
 - Top Interview Questions (9/145) 🚧
+- Algorithm I (3/31) 🚧
   
 ### HackerRank
-- Interview Preparation Kit (14/69) 🚧
+- Interview Preparation Kit (18/69) 🚧
 - 1 Month Preparation Kit (0/54)
-- 3 Months Preparation Kit (0/104)
   
 ### Algorithms for Competitive Programming
 You can find all the articles [here](https://cp-algorithms.com/).
