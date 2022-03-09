@@ -3,7 +3,7 @@ Saving my study progress for programming interviews.
 
 ### LeetCode
 - Top Interview Questions (9/145) 🚧
-- Algorithm I (3/31) 🚧
+- Algorithm I (7/31) 🚧
   
 ### HackerRank
 - Interview Preparation Kit (18/69) 🚧
