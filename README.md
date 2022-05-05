@@ -3,10 +3,10 @@ Saving my study progress for programming interviews.
 
 ### LeetCode
 - Top Interview Questions (9/145) 🚧
-- Algorithm I (7/31) 🚧
+- Algorithm I (10/31) 🚧
   
 ### HackerRank
-- Interview Preparation Kit (18/69) 🚧
+- Interview Preparation Kit (30/69) 🚧
 - 1 Month Preparation Kit (0/54)
   
 ### Algorithms for Competitive Programming
