@@ -1,5 +1,6 @@
 /*
 Difficulty: Hard;
+On-site Interview
 
 Let's define a function countUniqueChars(s) that returns the number of unique characters on s.
 
